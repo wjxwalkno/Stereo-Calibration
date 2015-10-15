@@ -1,0 +1,6 @@
+./calibration/camera0_1.bmp
+./calibration/camera0_2.bmp
+./calibration/camera0_3.bmp
+./calibration/camera0_4.bmp
+./calibration/camera0_5.bmp
+./calibration/camera0_6.bmp

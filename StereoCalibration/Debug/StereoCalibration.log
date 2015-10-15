@@ -1,0 +1,20 @@
+﻿Build started 2015/10/8 17:22:21.
+     1>Project "C:\Users\Administrator\Desktop\中航项目\StereoCalibration\StereoCalibration\StereoCalibration\StereoCalibration\StereoCalibration.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\StereoCalibration.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\StereoCalibration.unsuccessfulbuild".
+         Touching "Debug\StereoCalibration.lastbuildstate".
+     1>Done Building Project "C:\Users\Administrator\Desktop\中航项目\StereoCalibration\StereoCalibration\StereoCalibration\StereoCalibration\StereoCalibration.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
